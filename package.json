@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "@wdio/cli": "^9.0.9",
+    "wdio-lambdatest-service": "^3.0.1"
+  }
+}
